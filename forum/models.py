@@ -1,7 +1,5 @@
 from django.db import models
 
-# http://dontpad.com/fds_2b_2026.1
-
 import datetime
 from django.utils import timezone
 
